@@ -118,4 +118,4 @@ CREATE TABLE avis (
 );
 
 INSERT INTO user (nom, prenom, email, role, mot_de_passe) VALUES
-('Admin', 'System', 'admin@domassist.com', 'admin', '$2y$12$placeholder_replace_with_hash');
+('Admin', 'System', 'admin@domassist.com', 'admin', 'admin1234');
